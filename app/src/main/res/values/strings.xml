@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">ChatApplication</string>
+    <string name="title_activity_start_chat">StartChatActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>

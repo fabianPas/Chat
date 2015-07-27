@@ -1,0 +1,3 @@
+<resources>
+    <string name="user_count">There are %1$d users available.</string>
+</resources>

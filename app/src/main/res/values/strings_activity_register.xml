@@ -1,0 +1,18 @@
+<resources>
+    <string name="title_activity_register">Register</string>
+
+    <!-- Strings related to login -->
+    <string name="register_username">Username</string>
+    <string name="register_email">Email</string>
+    <string name="register_password">Password</string>
+    <string name="register_password_confirm">Confirm password</string>
+    <string name="action_register">Register</string>
+
+    <string name="error_invalid_username">Invalid username</string>
+    <string name="error_invalid_password">Invalid password</string>
+    <string name="error_passwords_not_equal">Passwords are not equal</string>
+    <string name="error_email_required">Email required</string>
+    <string name="error_invalid_email">Email required</string>
+    <string name="error_username_exists">Username already exists</string>
+    <string name="error_email_exists">Account with email already exists</string>
+</resources>
